@@ -8,6 +8,9 @@
 |  | 나이순 정렬-10814 | https://www.acmicpc.net/problem/10814 |
 |  | 분해합-2231 | https://www.acmicpc.net/problem/2231 |
 |  | 수학은 비대면강의입니다-19532 |https://www.acmicpc.net/problem/19532 |
+|  | 빙고-2578 |https://www.acmicpc.net/problem/2578 |
+|  | 색종이-2563 |https://www.acmicpc.net/problem/2563 |
+|  | 경비원-2564 |https://www.acmicpc.net/problem/2564 |
 | 2주차 | -                          | - |
 | 3주차 | -                          | - |
 | 4주차 | -                          | - |
